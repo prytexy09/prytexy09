@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @prytexy09
+- 👀 I’m interested in AI, ML
+- 🌱 I’m currently learning python, c++
+- 📫 How to reach me: telegram (@iskankoo)
+- 😄 Pronouns: he/him
